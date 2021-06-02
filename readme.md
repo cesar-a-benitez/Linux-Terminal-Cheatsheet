@@ -41,7 +41,7 @@
 Atalho               | Uso
 :-------------------:|:--------------------------------------------------------
 `Ctrl` + `Alt` + `T` | Usado para abrir o Terminal
-`Ctrl` + `C`         | Usado para cancelar operação em andamento
+`Ctrl` + `C`         | Usado para cancelar operação em andamento no terminal
 `Ctrl` + `L`         | Usado para limpar a tela do terminal (Comando **clear**)
 `Ctrl` + `D`         | Usado para fazer **logout** ou fechar o terminal
 
